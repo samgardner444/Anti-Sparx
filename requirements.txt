@@ -1,1 +1,3 @@
-Pillow==11.1.0
+Pillow
+opencv
+pyautogui
