@@ -1,6 +1,6 @@
 Run the following:
 
 
-Get to the venv:
+Get Requirements:
 
-source venv/bin/activate
+pip3 -r install requirements.txt
